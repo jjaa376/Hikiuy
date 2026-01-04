@@ -9,7 +9,7 @@ from datetime import datetime
 import binascii
 
 from xC4 import EnC_AEs, EnC_Uid, DeCode_PackEt, GeneRaTePk
-from Pb2 import MajoRLoGinrEq_pb2, MajoRLoGinrEs_pb2
+import MajoRLoGinrEq_pb2, MajoRLoGinrEs_pb2
 import search_account_req_pb2
 import search_account_rsp_pb2
 from Crypto.Cipher import AES
