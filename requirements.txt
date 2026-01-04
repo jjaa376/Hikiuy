@@ -1,0 +1,7 @@
+flask
+aiohttp
+requests
+pycryptodome
+protobuf
+gunicorn
+protobuf-decoder
